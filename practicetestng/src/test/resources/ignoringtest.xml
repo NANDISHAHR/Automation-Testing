@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="DemoSuite">
+	<test name="ignoringTest" >
+		<classes>
+			<class name="com.test.demotest.ignoringdemo"/>
+			<class name="com.test.demotest.ignoringdemo2"/>
+		</classes>
+	</test>
+	
+</suite>  
